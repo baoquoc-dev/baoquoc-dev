@@ -11,15 +11,15 @@
 
   [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=Telegram&logoColor=white)](https://t.me/baoquocdev)
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/baoquocdev)
-  [![Mail](https://img.shields.io/badge/Email-D14836.svg?logo=Gmail&logoColor=white)](mailto:baoquocdev@gmail.com)
-
+  
 <br><br><hr><br><br>
 
 **<h3>⚒️ LANGUAGES ⚒️</h3>**
 
-![<VSCode>](https://img.shields.io/badge/VSCode-007ACC.svg?logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?logo=visual-studio-code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![<Git>](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) 
 
 <br><br><hr><br><br>
